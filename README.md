@@ -19,11 +19,6 @@ Version: 2.0
 
 ---
 
-## In the next update 📌
- - 🎬 **Movies and series**: In the next update, we are trying to get the information about movies and serials of the world using the API of the OMDB site!
-
----
-
 ## Screenshots 🖼️
 <p align="center">
     <img src="./IMG/01.png" width="25%" />

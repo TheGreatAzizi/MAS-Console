@@ -10,7 +10,7 @@ Version: 2.0
   - Release Date
   - Genre
   - Rating and .....
-  - - 🍿 **Movie**: Search for movie and series using English names and get its complete information, including the order of watching related anime
+ - 🍿 **Movie**: Search for movie and series using English names and get its complete information, including the order of watching related anime
   - Description
   - Release Date
   - Genre

@@ -11,10 +11,10 @@ Version: 2.0
   - Genre
   - Rating and .....
  - 🍿 **Movie**: Search for movie and series using English names and get its complete information, including the order of watching related anime
-  - Description
-  - Release Date
-  - Genre
-  - Rating and .....
+   - Description
+   - Release Date
+   - Genre
+   - Rating and .....
 - 🌐 **API Integration**: Fetch real-time data from an anime database [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) [OMDB API]([https://anilist.gitbook.io/anilist-apiv2-docs/](http://www.omdbapi.com)) .
 
 ---

@@ -15,6 +15,7 @@ namespace MAS
     class Program
     {
 
+
         #region full screen seting
         [DllImport("kernel32.dll", SetLastError = true)]
         static extern IntPtr GetConsoleWindow();

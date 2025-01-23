@@ -2,6 +2,11 @@
 
 A **C# console Application** for searching and exploring anime movies and series!
 Version: 2.0
+
+---
+
+**⏬[Download](https://github.com/TheGreatAzizi/MAS-Console/releases/download/v2.0/MAS.exe)**
+
 ---
 
 ## Features ✨

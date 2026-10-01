@@ -1,4 +1,6 @@
 # MAS Console: movie anime series (Console.ver) 🎥
+[![DevSponsors](https://devsponsors.github.io/assets/badges/sponsor.svg)](https://devsponsors.github.io)
+
 
 A **C# console Application** for searching and exploring anime movies and series!
 Version: 2.0
